@@ -10,20 +10,20 @@ Nuestra interfaz permite:
   -Soporte para archivos con glitches
   -Manejo de parametros en funcion de una configuracion predeterminada editable
 
--Analisis matematico de la fase rotacional del pulsar:
+- Analisis matematico de la fase rotacional del pulsar:
   -Se calcula la evolución de la fase en base a los siguientes parametros de los archivos:
     -F0 / F1 / F2 / F3
   -Consideracion de modificaciones provocadas por el glitch incluidos en los calculos
--Visualización de resultados:
+- Visualización de resultados:
   -Generar graficos para analizar la evolucion a traves del tiempo del púlsar
   -Comparacion del comportamiento de los calculos con y sin glitches
   -Muestreo de glitches en funcion del tiempo de toma de datos del pulsar.
 
 ## Ejecución
 Para utilizar la interfaz de PulsarLab se requiere:
--Entorno con Python y Jupyter Notebook instalado
--Descargar o clonar este repositorio
--Instalar dependencias
--Ejecutar el archivo etapa3_pulsar.ipynb
+- Entorno con Python y Jupyter Notebook instalado
+- Descargar o clonar este repositorio
+- Instalar dependencias
+- Ejecutar el archivo etapa3_pulsar.ipynb
 
 Una vez ejecutado el notebook, la interfaz permitirá cargar los archivos del púlsar, modificar la configuración del modelo y generar los graficos correspondientes.
